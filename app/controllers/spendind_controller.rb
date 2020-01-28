@@ -1,0 +1,2 @@
+class SpendindController < ApplicationController
+end
